@@ -7,6 +7,15 @@
 
   "description": "View definitions easily as you browse the web. Double-click any word to view its definition in a small pop-up bubble.",
 
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "dictionary-anywhere-addon@addons.mozilla.org",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+
   "icons": {
     "48": "icons/Dictionary-48.png",
     "64": "icons/Dictionary-64.png",
