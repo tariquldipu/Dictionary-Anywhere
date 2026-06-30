@@ -51,6 +51,8 @@
     "storage",
     "https://www.google.com/",
     "https://en.wiktionary.org/*",
-    "https://de.wiktionary.org/*"
+    "https://de.wiktionary.org/*",
+    "https://fr.wiktionary.org/*",
+    "https://es.wiktionary.org/*"
   ]
 }
